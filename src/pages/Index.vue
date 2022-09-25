@@ -48,7 +48,8 @@ export default {
       {
         key: "description",
         name: "description",
-        content: "foo",
+        content:
+          "Bonjour, je suis un jeune développeur web basé à Nouméa, en Nouvelle Calédonie. Je suis en licence MIAW à l'université de Nouvelle Calédonie.",
       },
     ],
   },
