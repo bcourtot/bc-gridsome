@@ -2,13 +2,7 @@
   <div>
     <div class="content">
       <h1>Brice Courtot</h1>
-      <img
-        class="logo"
-        src="logo.png"
-        width="300"
-        height="300"
-        alt="brice courtot"
-      />
+      <img src="logo.png" width="300" height="300" alt="brice courtot" />
       <h3>Junior Web Developer @ Noumea, New Caledonia</h3>
       <ul>
         <li>
